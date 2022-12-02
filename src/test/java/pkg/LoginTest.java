@@ -6,6 +6,7 @@ public class LoginTest {
         System.out.println("Login with Valid Username");
         System.out.println("Login with Valid Password");
         System.out.println("Login with Invalid Password");
+        System.out.println("Login with Invalid Username");
 
     }
 }
